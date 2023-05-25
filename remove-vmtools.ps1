@@ -14,7 +14,7 @@
 .EXAMPLE
    Must run locally
 .CREATEDBY
-    Juliano Alves de Brito Ribeiro (Find me at: julianoalvesbr@live.com or jaribeiro@uoldiveo.com or https://github.com/julianoabr)
+    Juliano Alves de Brito Ribeiro (Find me at: julianoalvesbr@live.com or https://github.com/julianoabr)
 .VERSION INFO
     0.1
 .TO THINK
